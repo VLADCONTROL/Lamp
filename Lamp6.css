@@ -101,7 +101,7 @@ body {
     height: 256px;
 }
 
-#.botao {
+#botao {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	box-shadow:inset 0px 0px 0px 0px #ffffff;
@@ -125,7 +125,7 @@ body {
         text-align: center;
 }
 
-}#.botao:active {
+}#botao:active {
 	position:relative;
 	top:1px;
 }
@@ -138,7 +138,7 @@ body {
     height: 256px;
 }
 
-#.botao_2 {
+#botao_2 {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	box-shadow:inset 0px 0px 0px 0px #ffffff;
@@ -162,7 +162,7 @@ body {
         text-align: center;
 }
 
-}#.botao_2:active {
+}#botao_2:active {
 	position:relative;
 	top:1px;
 }
